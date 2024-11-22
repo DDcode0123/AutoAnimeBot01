@@ -15,5 +15,4 @@ commands:
 
 env:
   - "ENVIRONMENT=production"
-environment:
-  - MAIN_CHANNEL=-1002410759937
+
