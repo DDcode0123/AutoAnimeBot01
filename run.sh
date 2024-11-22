@@ -1,2 +1,3 @@
 python3 bot.py
-bash run.sh
+python3 auto_env_gen.py
+
