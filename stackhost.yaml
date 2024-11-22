@@ -15,3 +15,5 @@ commands:
 
 env:
   - "ENVIRONMENT=production"
+environment:
+  - MAIN_CHANNEL=your_channel_id_here
